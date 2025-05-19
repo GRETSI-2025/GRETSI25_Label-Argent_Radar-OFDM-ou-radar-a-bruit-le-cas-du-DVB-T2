@@ -17,14 +17,7 @@ toute remarque constructive sur le code est bienvenue.
 
 ## Reproduction des résultats
 
-La branche `gretsi2025` peut être clonée 
-
-``` shell
-git clone --branch gretsi2025 https://gitlab.insa-rennes.fr/jbaudais/dvbt2.git
-cd dvbt2
-```
-
-ou seul le fichier `dvbt2lib.py` peut être téléchargé en local et les
+La branche `main` peut être clonée ou seul le fichier `dvbt2lib.py` peut être téléchargé en local et les
 codes qui suivent exécutés.
 
 L'ordre de reproduction est celui d'apparition dans la
