@@ -1,5 +1,15 @@
 # DVBT2
 
+<hr>
+
+**_Dépôt labelisé dans le cadre du [Label Reproductible du GRESTI'25](https://gretsi.fr/colloque2025/recherche-reproductible/)_**
+
+| Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
+|:-------------:|:------:|:----------:|:-------------------:|:------|
+| ![](label_argent.png) | Jean-Yves BAUDAIS<br>[@jbaudais](https://github.com/jbaudais) | Jean-Baptiste COURBOT<br>[@courbot](https://github.com/courbot) |  Figures 1, 2, 3 et 4<br>Table 1 | 📌&nbsp;[Dépôt&nbsp;original](https://framagit.org/jbaudais/dvbt2)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/4)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_04) |
+
+<hr>
+
 Dépôt pour le label science reproductible, colloque GRETSI 2025
 
 * Identifiant de la communication : ID1427
